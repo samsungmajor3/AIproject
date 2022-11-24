@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Skills",
+    "categoryName": "Resume Skill Sets",
+    "description": "Categories of different skills that potential employers will be looking for",
+  
+    "children": [
+      {
+        "name": "CSS",
+        "categoryName": "Maths, science and engineering",
+        "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+      },
+      {
+        "name": "Javascript",
+        "categoryName": "Maths, science and engineering",
+        "description": "JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm."
+      },
+      {
+        "name": "C#",
+        "categoryName": "Maths, science and engineering",
+        "description": "C# is a general-purpose, high-level multi-paradigm programming language."
+      },
+      {
+        "name": "C",
+        "categoryName": "Maths, science and engineering",
+        "description": "C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs."
+      },
+      {
+        "name": "C++",
+        "categoryName": "Maths, science and engineering",
+        "description": "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language"
+      },
+      {
+        "name": "Python",
+        "categoryName": "Maths, science and engineering",
+        "description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace."
+      },
+      {
+        "name": "mySQL",
+        "categoryName": "Maths, science and engineering",
+        "description": "MySQL is an open-source relational database management system. "
+      },
+      {
+        "name": "Angular",
+        "categoryName": "Maths, science and engineering",
+        "description": "Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations."
+      },
+      {
+        "name": "Java",
+        "categoryName": "Maths, science and engineering",
+        "description": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible."
+      },
+      {
+        "name": "SWIFT",
+        "categoryName": "Maths, science and engineering",
+        "description": "The Society for Worldwide Interbank Financial Telecommunication, legally S.W.I.F.T. SC, is a Belgian cooperative society providing services related to the execution of financial transactions and payments between banks worldwide."
+      },
+      {
+        "name": "Stocking and Organizing",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Inventory management is important because it ensures businesses know what they've got in stock, where it is and how much of it they have."
+      },
+      {
+        "name": "Psychology",
+        "categoryName": "Maths, science and engineering",
+        "description": "Psychology is the scientific study of the mind and behavior. Psychologists are actively involved in studying and understanding mental processes, brain functions, and behavior."
+      },
+      {
+        "name": "Ethics",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Ethics or moral philosophy is a branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong behavior"
+      },
+      {
+        "name": "Social learning",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Social learning is a theory of learning process social behavior which proposes that new behaviors can be acquired by observing and imitating others."
+      },
+      {
+        "name": "HTML",
+        "categoryName": "Maths, science and engineering",
+        "description": "Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web."
+      },
+      {
+        "name": "Photoshop",
+        "categoryName": "Maths, science and engineering",
+        "description": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS. It was originally created in 1988 by Thomas and John Knoll."
+      },
+      {
+        "name": "CSS tools",
+        "categoryName": "Maths, science and engineering",
+        "description": "CSS tools and frameworks are meant to allow for easier, more standards-compliant web design using the Cascading Style Sheets language."
+      },
+      {
+        "name": "NodeJS",
+        "categoryName": "Maths, science and engineering",
+        "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser."
+      },
+      {
+        "name": "React",
+        "categoryName": "Maths, science and engineering",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
+      },
+      {
+        "name": "JavaFX",
+        "categoryName": "Maths, science and engineering",
+        "description": "JavaFX is a software platform for creating and delivering desktop applications, as well as rich Internet applications (RIAs) that can run across a wide variety of devices."
+      },
+      {
+        "name": "Go",
+        "categoryName": "Maths, science and engineering",
+        "description": "Go (often referred to as Golang) is a fully open-source programming language. It is statically typed, compiled, and syntactically similar to C, with the added benefits of memory safety, garbage collection, structural typing, and CSP-style concurrency."
+      },
+      {
+        "name": "NumPy",
+        "categoryName": "Maths, science and engineering",
+        "description": "NumPy is the fundamental package for scientific computing with Python."
+      },
+      {
+        "name": "Scrum",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Scrum is an agile framework for managing knowledge work, with an emphasis on software development. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called 'sprints', no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute stand-up meetings, called daily scrums."
+      },
+      {
+        "name": "Coaching",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "ICF defines coaching as partnering with clients in a thought-provoking and creative process that inspires them to maximize their personal and professional potential, which is particularly important in today's uncertain and complex environment."
+      },
+      {
+        "name": "Machine Learning",
+        "categoryName": "Maths, science and engineering",
+        "description": "Machine learning (ML) is a field of artificial intelligence that uses statistical techniques to give computer systems the ability to 'learn' (e.g., progressively improve performance on a specific task) from data, without being explicitly programmed."
+      },
+      {
+        "name": "UI/UX Design",
+        "categoryName": "Maths, science and engineering",
+        "description": "User experience design (UX, UXD, UED or XD) is the process of enhancing user satisfaction with a product by improving the usability, accessibility, and pleasure provided in the interaction with the product. User experience design encompasses traditional human–computer interaction (HCI) design, and extends it by addressing all aspects of a product or service as perceived by users."
+      },
+      {
+        "name": "Search Engine Optimization",
+        "categoryName": "Maths, science and engineering",
+        "description": "Search engine optimization (SEO) is the process of affecting the online visibility of a website or a web page in a web search engine's unpaid results—often referred to as 'natural', 'organic', or 'earned' results. In general, the earlier (or higher ranked on the search results page), and more frequently a website appears in the search results list, the more visitors it will receive from the search engine's users; these visitors can then be converted into customers. SEO may target different kinds of search, including image search, video search, academic search, news search, and industry-specific vertical search engines. SEO differs from local search engine optimization in that the latter is focused on optimizing a business' online presence so that its web pages will be displayed by search engines when a user enters a local search for its products or services. The former instead is more focused on national or international searches."
+      },
+      {
+        "name": "Project Coordination",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Administration that oversees the day-to-day operations of a particular project within an organization. "
+      },
+      {
+        "name": "Stakeholder Engagement",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Stakeholder engagement is the process by which an organization involves people who may be affected by the decisions it makes or can influence the implementation of its decisions. They may support or oppose the decisions, be influential in the organization or within the community in which it operates, hold relevant official positions or be affected in the long term."
+      },
+      {
+        "name": "Microsoft Excel",
+        "categoryName": "Digital competence",
+        "description": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications."
+      },
+      {
+        "name": "Microsoft Powerpoint",
+        "categoryName": "Digital competence",
+        "description": "Microsoft PowerPoint is a presentation program, created by Robert Gaskins and Dennis Austin at a software company named Forethought, Inc."
+      },
+      {
+        "name": "Microsoft Outlook",
+        "categoryName": "Digital competence",
+        "description": "Microsoft Outlook is a personal information manager from Microsoft, available as a part of the Microsoft Office suite. Although often used mainly as an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing."
+      },
+      {
+        "name": "Microsoft Word",
+        "categoryName": "Digital competence",
+        "description": "Microsoft Word (or simply Word) is a word processor developed by Microsoft."
+      },
+      {
+        "name": "Commercial Awareness",
+        "categoryName": "Entrepreneurship (Business)",
+        "description": "Knowledge of how businesses make money, what customers want, and what problems there are in particular areas of business:"
+      },
+      {
+        "name": "Robot Framework",
+        "categoryName": "Maths, science and engineering",
+        "description": "The Robot Framework is a generic test automation framework for acceptance testing and acceptance test-driven development (ATDD). It is a keyword-driven testing framework that uses tabular test data syntax."
+      },
+      {
+        "name": "Scaled Agile Framework",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "SAFe promotes alignment, collaboration, and delivery across large numbers of agile teams. It was developed by and for practitioners, by leveraging three primary bodies of knowledge: agile software development, lean product development, and systems thinking."
+      },
+      {
+        "name": "Test-driven development",
+        "categoryName": "Maths, science and engineering",
+        "description": ""
+      },
+      {
+        "name": "Conflict resolution",
+        "categoryName": "Maths, science and engineering",
+        "description": "Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution. Committed group members attempt to resolve group conflicts by actively communicating information about their conflicting motives or ideologies to the rest of the group (e.g., intentions; reasons for holding certain beliefs) and by engaging in collective negotiation."
+      },
+      {
+        "name": "Negotiation",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution. Committed group members attempt to resolve group conflicts by actively communicating information about their conflicting motives or ideologies to the rest of the group (e.g., intentions; reasons for holding certain beliefs) and by engaging in collective negotiation."
+      },
+      {
+        "name": "HR Policies",
+        "categoryName": "Entrepreneurship (Business)",
+        "description": "Series of policies country-, business- and company-dependant which shape contractual relationships."
+      },
+      {
+        "name": "Spring framework",
+        "categoryName": "Maths, science and engineering",
+        "description": "The Spring Framework is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE (Enterprise Edition) platform. Although the framework does not impose any specific programming model, it has become popular in the Java community as an addition to, or even replacement for the Enterprise JavaBeans (EJB) model. The Spring Framework is open source."
+      },
+      {
+        "name": "Git",
+        "categoryName": "Maths, science and engineering",
+        "description": "Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source-code management in software development, but it can be used to keep track of changes in any set of files. As a distributed revision-control system, it is aimed at speed, data integrity, and support for distributed, non-linear workflows."
+      },
+      {
+        "name": "Docker",
+        "categoryName": "Maths, science and engineering",
+        "description": "Docker is a computer program that performs operating-system-level virtualization, also known as 'containerization'."
+      },
+      {
+        "name": "Redis",
+        "categoryName": "Maths, science and engineering",
+        "description": "Redis is an open-source in-memory data structure project implementing a distributed, in-memory key-value database with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, hyperloglogs, bitmaps, streams and spatial indexes."
+      },
+      {
+        "name": "Jira",
+        "categoryName": "Maths, science and engineering",
+        "description": "Jira is a proprietary issue tracking product developed by Atlassian which allows bug tracking and agile project management."
+      },
+      {
+        "name": "PostgreSQL",
+        "categoryName": "Maths, science and engineering",
+        "description": "PostgreSQL, often simply Postgres, is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards compliance. It can handle workloads ranging from small single-machine applications to large Internet-facing applications (or for data warehousing) with many concurrent users; on macOS Server, PostgreSQL is the default database; and it is also available for Microsoft Windows and Linux (supplied in most distributions)."
+      },
+      {
+        "name": "Facilitation",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "A process where an individual who is agreed upon and acceptable to all of a group's members intervenes to assist the group in solving problems and making decisions to improve productivity and efficiency but who has no authority to make decisions."
+      },
+      {
+        "name": "Building Trust",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Trust is one of the keyfactors to be considered. Trust forms the basis of all relationships and interactions. It is just as important in professional relationships as it is in personal ones. Without each party trusting one another the ability to come to an agreement or consensus on an issue is always going to be compromised. Some benefits of trust: Increased productivity amonst staff Improved morale amongst employees and staff The ability to work more effectively as a team, rather than individuals Reduce the time to make and discuss key issues as each individual trusts in the judgement and expertise of their colleagues."
+      },
+      {
+        "name": "Professional Networking",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Creating external partnerships (not only internal) that benefit the company. Human resources is often seen as an ‘internal’ part of business but doesn’t mean outside world is not important. Strike up new relationships that benefit to the workforce and to the company’s goals. It’s a great way of gaining external credibility."
+      },
+      {
+        "name": "Identifying External Influences",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "How you identify and handle external threats and opportunities that might affect the companie’s human capital. Examples of external threats and opportunities that an HR business partner should know to look out for might include:– Changes to employment legislation – New job openings from close competitors – Mass redundancies within your industry."
+      },
+      {
+        "name": "Managing Talent",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "A keen eye for the kind of talent a company really needs; the ability to find and attract that talent; and a great talent retention strategy to ensure business continuity."
+      },
+      {
+        "name": "Creating Company Culture",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Creating a strong organisational culture is vital for an HR Consultant. The company culture will narrate the direction of your organisation, as it will heavily influence how the people behave and perform. Aspects of creating a great company culture include:– Understanding and meeting the needs of employees – Implementing professional development plans that increase skillsets while helping your people feel valued – Helping to the people to really feel connected with your company’s values and goals."
+      },
+      {
+        "name": "Effective Listening",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Listening is an essential part of spoken communication. Speaking and listening go together and oral communication cannot be effective without proper listening. Poor listening defeats the very purpose of spoken words. Listening is a deliberate effort and is much more than hearing. It requires getting the full meaning of what is being said. Listening effectively takes skill, self-motivation, and practice. Effective listening means concentrating on what the speaker says rather than on how it is said. Lack of attention and respectful listening can be costly - leading to mistakes, poor service, misaligned goals, wasted time and lack of teamwork."
+      },
+      {
+        "name": "Being Approachable & Accessible",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Keeping yourself actively involved in your company’s day-to-day affairs. Making yourself accessible and approachable to the people you’re representing will give you a level of company knowledge that cannot be found on monthly performance reports or attendance sheets."
+      },
+      {
+        "name": "Change Management",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Manages change in a systematic approach both from an organizational and an individual level. Ability to create the structure to execute and sustain change through clear design, aligned roles  relationships and governance. Applies structured approaches to shift individuals, teams, and organizations from a current state to a desired state."
+      },
+      {
+        "name": "Persuasion",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Uses persuasion and negotiation to gain agreement and buy-in. Promotes idea, agenda or direction on behalf of self or others. Seeks support from communities to ensure that persuasion is effective. Stands up and speaks the mind up, escalates when  needed."
+      },
+      {
+        "name": "Negotiating",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Can negotiate skillfully in tough situations with both internal and external groups; can settle differences with minimum noise; can win concessions without damaging relationships; can be both direct and forceful as well as diplomatic; gains trust quickly of other parties to the negotiations; has a good sense of timing. Understands that all interaction can be considered as negotiation, e.g. finding positions and motives. Prepares for the commercial and/or technical sales negotiations with the appropriate team involved. Makes negotiation strategy that enhances the long term relationship and executes it with confidence and persuasion following company policies. Influences on negotiation process and negotiators to gain the deal that does not compromise the pre set targets. Never agrees terms which are detrimental to profitability in the long run across the solution/product lifecycle."
+      },
+      {
+        "name": "Problem-Solving",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Uses rigorous logic and methods to solve difficult problems with effective solutions; probes all fruitful sources for answers; can see hidden problems; looks beyond the obvious and doesn't stop at the first answers."
+      },
+      {
+        "name": "Training",
+        "categoryName": "Soft skills (& civic competence)",
+        "description": "Knowledge and skills in training techniques for both the occasional (L1, L2) and professional trainer (L3, L4, L5). Use of instructional styles adequate to the target group and training objectives, apply presentation and communication skills using various delivery methods and tools. Based on the level, including learning technologies needed in a modern (virtual) learning environment."
+      },
+      {
+        "name": "Consulting",
+        "categoryName": "Soft skills (&civic competence)",
+        "desciprion": "Using knowledge of the Nokia business model and processes, the external operating environment and domain expertise to improve human capital and business outcomes. Asking the  right developmental questions."
+      }
+    ]
+  }
+  
+]
