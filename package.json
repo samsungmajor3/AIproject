@@ -305,6 +305,11 @@
         "categoryName": "Soft skills (&civic competence)",
         "desciprion": "Using knowledge of the Nokia business model and processes, the external operating environment and domain expertise to improve human capital and business outcomes. Asking the  right developmental questions."
       }
+      {
+        "name": "Communication",
+        "categoryName": "Soft skills (&civic competence)", 
+        "description": "Using knowledge in communicating , listing, and sharing informations in order to ensure that frame of source succession and handle the issues with refering resoling skills.
+      }
     ]
   }
   
